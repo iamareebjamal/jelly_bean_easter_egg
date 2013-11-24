@@ -10,7 +10,7 @@ How to use:
 2. Add following libraries to the project:
     a NineOldDroid
 3. Do required changes
-4. 4. Export as apk
+4. Export as apk
 
 
 Warning: Source is licensed under GPL license requiring you to post complete and compilable source if you useit in any way in your project
